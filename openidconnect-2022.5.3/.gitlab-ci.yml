@@ -1,0 +1,3 @@
+include:
+  - project: "opendsi/ci-templates"
+    file: "/dolibarr/main.yml"

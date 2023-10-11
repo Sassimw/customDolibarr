@@ -1,0 +1,3 @@
+Module19050300Name=Third party code generator
+Module19050300Desc=Generate Customer Code & Vendor Code for third parties (Only third parties with empty values) 
+GenerateCustomerCode=Generate customer / vendor code

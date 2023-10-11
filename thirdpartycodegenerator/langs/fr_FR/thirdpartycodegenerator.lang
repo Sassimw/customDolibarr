@@ -1,0 +1,3 @@
+Module19050300Name=Générateur de code tiers
+Module19050300Desc=Générer le code client et le code fournisseur pour les tiers (uniquement les tiers avec des valeurs vides)
+GenerateCustomerCode=Générer le code client/fournisseur

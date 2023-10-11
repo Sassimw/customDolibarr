@@ -1,0 +1,4 @@
+# Dolibarr language file - fr_FR - openidconnect
+CHARSET=UTF-8
+Module163071Name = OpenID Connect
+Module163071Desc = Module for manage OpenID Connect Authentication
